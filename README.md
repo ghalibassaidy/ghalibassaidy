@@ -1,5 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on
+A full-featured Training Management System using Django, with custom reporting, dynamic enrollment, and modern UI built with TailwindCSS + Alpine.js.
+
+👯 I’m looking to collaborate on
+Open source projects related to education platforms, UI/UX design systems, or integrated backend solutions in Python or Laravel.
+
+🤝 I’m looking for help with
+Implementing real-time features (like WebSocket or polling) and optimizing data-heavy dashboards with AJAX + DRF.
+
+🌱 I’m currently learning
+Advanced React (with hooks & context), Next.js, and diving into Docker + CI/CD pipelines for smoother devops workflow.
+
+💬 Ask me about
+Anything backend-related! Especially in Django, REST API, Laravel, or how to design clean, scalable systems from scratch.
+
+⚡ Fun fact
+I once built a whole feature just to avoid doing repetitive Excel work. Now people think it’s a genius automation move. 😎
+
+
 
 
 ## 🌐 Socials:
